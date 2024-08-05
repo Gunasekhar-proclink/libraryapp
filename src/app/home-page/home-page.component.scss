@@ -1,0 +1,11 @@
+.book-list-container {
+    display: grid;
+    margin: 50px 0px;
+    justify-content: space-evenly;
+  }
+  
+   .List-of-book{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+   }
